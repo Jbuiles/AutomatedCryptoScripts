@@ -14,5 +14,5 @@ The GetPrices.py script gets the current market price for Ethereum, Litecoin and
 These scripts can be used to automatically track cryptocurrency prices in real time and compare cryptocurrencies historically against one another over time. These scripts can be used as part of a Cryptocurrency exchange site, 
 to make decisions to invest in certain cryptocurrencies or for your own personal cryptocurrency related projects.
 
-# NOTE
+# Note
 These scripts are designed to be used on task scheduler for Windows to automate the process of collecting this data or by setting a cronjob in Linux environments to do the same. These scripts can also be modified to get the price and historical data for any cryptocurrency currently listed on CryptoCompare.
