@@ -1,4 +1,4 @@
-# AutomatedCryptoScripts
+# Automated Crypto Scripts
 
 # What is it?
 These are a set of automated Python scripts that pull data from the cryptocurrency exchange site 
