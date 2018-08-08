@@ -1,5 +1,6 @@
 #! /usr/bin/python3
 
+#This file builds the graphs with the data obtained from Gethistory.py
 import json
 import datetime
 import collections
