@@ -30,9 +30,3 @@ def GetHistoricalLtc():
 	f = open('historyLtc.json', 'w')
 	f.write(js)
 	f.close()
-
-#while True:
-#	GetHistoricalLtc()
-#	GetHistoricalBtc()
-#	GetHistoricalEth()
-#	time.sleep(50)
