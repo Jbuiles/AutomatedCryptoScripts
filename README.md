@@ -15,4 +15,7 @@ These scripts can be used to automatically track cryptocurrency prices in real t
 to make decisions to invest in certain cryptocurrencies or for your own personal cryptocurrency related projects.
 
 # Note
-These scripts are designed to be used on task scheduler for Windows or as a cronjob on Linux to automate the process of collecting data from the CryptoCompare api. These scripts can also be modified to get the price and historical data for any cryptocurrency currently listed on CryptoCompare.
+These scripts are designed to be used on task scheduler for Windows or as a cronjob on Linux to automate the process of collecting data from the CryptoCompare api. These scripts can also be modified to get the price and historical data for any cryptocurrency currently listed on CryptoCompare. Included is an example of output from these scripts.
+
+# Disclaimer
+This is still a project in development. Code or features may change at any time.
