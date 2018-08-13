@@ -1,8 +1,8 @@
 # Automated Crypto Scripts
 
 # What is it?
-These are a set of automated Python scripts that pull data from the cryptocurrency exchange site 
-CryptoCompare(https://www.cryptocompare.com) via their supplied API and graphs the currency pricing data.
+These are a set of automated Python scripts that pulls pricing data from the cryptocurrency exchange site 
+CryptoCompare(https://www.cryptocompare.com) via their supplied API and creates graphs to visualize price data.
 
 # How does it work?
 Using python, these scripts access the cryptocurrency exchange site via their API and extracts current cryptocurrency prices as well as historical data for individual crypto currencies. These Python scripts decode the data from the API and saves it as a json 
